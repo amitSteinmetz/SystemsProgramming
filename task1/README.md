@@ -1,9 +1,9 @@
 # First assignment with C language:
-<br>
-### Writing mathematical functions:
-<br>
-calculate:
+
+### Writing some mathematical functions:
+##### Given an integer input X, the functions will calculate (respectively), if X is a:
+
 * Armstrong number <br>
-* Prime numbers <br>
-* Strong numbers <br>
-* Palindromes
+* Prime number <br>
+* Strong number <br>
+* Palindrome

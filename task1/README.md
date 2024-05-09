@@ -1,7 +1,9 @@
 # First assignment with C language:
 <br>
-## Writing mathematical functions:
+### Writing mathematical functions:
 <br>
 calculate:
-* Armstrong number
-* 
+* Armstrong number <br>
+* Prime numbers <br>
+* Strong numbers <br>
+* Palindromes
